@@ -1,0 +1,9 @@
+git status
+git config --user.name ""
+git config --email.name ""
+
+cd new
+git add .
+git commit -m "new"
+git status
+git push origin master
